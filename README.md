@@ -7,12 +7,12 @@
      - Typescript
      - TypeORM
      - GraphQL
-     FrontEnd :
+- 👻 FrontEnd :
      - React
      - React bootstrap
-     Database:
+- 🏖️ Database:
      - SQL Server
-- 🧐 Using MERN stack, I have solely developed a full fledged Food ordering web application 
+- 🛒 Using MERN stack, I have solely developed a full fledged Food ordering web application 
      end to end including deployment.
      Click the link to see my product. https://alpine-skydairy.herokuapp.com 
 - 📫 Reach me on :
