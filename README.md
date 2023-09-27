@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @soumithtej
 - 👀 Experienced in Full stack development
 - 🤖 Interested in Artifical Intelligence & Full stack development
-- 🌱 I’m currently working in Techno Brain since Feb 2021.
-     Developing website for Government of Uganda using the backend technologies:
+- 🌱 I’m currently working at Deloitte since Aug 2021
+     Developed website for Government of Uganda using the backend technologies at Techno Brain:
      - Nestjs
      - Typescript
      - TypeORM
